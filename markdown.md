@@ -6,6 +6,8 @@ Negrito: **Teste** ou __Teste__
 
 Itálico: *Teste* ou _Teste_
 
+~~palavra riscada~~
+
 Negrito + Itálico: _**Teste**_
 
 Linha horizontal embaixo: *** ou ---
